@@ -1,0 +1,15 @@
+{
+  "name": "absensi-neotech-ts",
+  "version": "1.0.0",
+  "description": "API Aplikasi Absensi NeoTech TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fathur Walkers",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
